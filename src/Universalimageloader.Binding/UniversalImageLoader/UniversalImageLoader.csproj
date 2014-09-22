@@ -7,7 +7,7 @@
     <ProjectGuid>{B3A4FC42-23FD-4AD3-89EF-1265A2032ADC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>UniversalImageLoader</RootNamespace>
-    <AndroidUseLatestPlatformSdk>True</AndroidUseLatestPlatformSdk>
+    <AndroidUseLatestPlatformSdk>False</AndroidUseLatestPlatformSdk>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <AssemblyName>UniversalImageLoader</AssemblyName>
